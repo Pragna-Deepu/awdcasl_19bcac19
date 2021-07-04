@@ -17,9 +17,9 @@ k=k+2;
 System.out.println();
 System.out.println();
 }
-for(int i=1;i<=rows;i++)
+for(int i=1;i<=rows+1;i++)
 {
-for(int j=k;j<=k;k--)
+for(int j=1;j<=k;j++)
 {
 System.out.print("* ");
 }
