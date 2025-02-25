@@ -16,6 +16,7 @@ int size_Of_ArrayList(ArrayList<Integer> A)
 {
 return A.size();
 }
+  System.out.println("Hello there");
 void sort_ArrayList_Desc(ArrayList<Integer> A)
 {
 Collections.sort(A,Collections.reverseOrder());
